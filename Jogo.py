@@ -11,7 +11,7 @@ carro = pygame.image.load('1.png')
 carro02 = pygame.image.load('2.png')
 carro03 = pygame.image.load('3.png')
 carro04 = pygame.image.load('4.png')
-carro05 = pygame.image.load('5.1.png')
+carro05 = pygame.image.load('5.png')
 janela = pygame.display.set_mode((800,600))
 pygame.display.set_caption('Jogo parte 1')
 #criando janela
